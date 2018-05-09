@@ -9,9 +9,9 @@ This is a readme file for the **smart socket** device that was developed at the 
 
 - NodeMCU with ESP-12E module
 - 220VAC to 5VDC converter
-- 5V relay capable switching 220VAC
-- AC current sensor 5A for arduino
-- RFID reader
+- 5V relay capable switching 220VAC - SRD-05VDC-SL-C
+- AC current sensor 5A for arduino  - TA12-100
+- RFID reader - RC522
 - RFID stickers
 - Electricity sockets - male & female
 - Jumper wires

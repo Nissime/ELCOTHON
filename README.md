@@ -5,7 +5,17 @@ This is a readme file for the **smart socket** device that was developed at the 
 
 ## Setup
 
-Fill in here:...
+### Hardware required:
+
+- NodeMCU with ESP-12E module
+- 220VAC to 5VDC converter
+- 5V relay capable switching 220VAC
+- AC current sensor 5A for arduino
+- RFID reader
+- RFID stickers
+- Electricity sockets - male & female
+- Jumper wires
+- 2x 1KOhm resistor
 
 
 ### Languages used:

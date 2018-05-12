@@ -13,7 +13,8 @@ This is a readme file for the **smart socket** device that was developed at the 
 - AC current sensor 5A for arduino  - TA12-100
 - RFID reader - RC522
 - RFID stickers
-- Electricity sockets - male & female
+- Power socket
+- Power plug
 - Jumper wires
 - 2x 1KOhm resistor
 

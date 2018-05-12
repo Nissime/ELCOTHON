@@ -32,3 +32,6 @@ This is a readme file for the **smart socket** device that was developed at the 
 5. Add UI with Kivy ?
 6. More and more and more...
 
+### Notes
+1. SendCurrentOnly.ino: Reads the current from the sensor and sends it via WiFi to the host - WORKS GOOD
+2. SmarterSocket.ino: Identifies RFID, send it to host via WiFi, receives "approve/decline" reply, activating the relay to allow 220V to the power socket, then reads and sends current measurements via WiFi to the host. WAS NOT TESTED YET
